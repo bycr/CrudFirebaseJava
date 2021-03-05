@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828252636931",
+    "project_id": "crudfirebasejava-4bc34",
+    "storage_bucket": "crudfirebasejava-4bc34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828252636931:android:e5276c875d91a5708dcb36",
+        "android_client_info": {
+          "package_name": "com.cursokotlin.crudfirebasejava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828252636931-ap3jqehl81q908ed72mefq2notocl9kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMtYbpu_F1g5vGdKNRjdNRgZChCPp_zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828252636931-ap3jqehl81q908ed72mefq2notocl9kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
